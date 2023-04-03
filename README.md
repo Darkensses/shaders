@@ -1,0 +1,1 @@
+Go to https://shawnlawson.github.io/The_Force/ paste the code and delete the glsl uniforms `u_resolution` and `u_time` where are defined. Change them in the rest of the line codes by `resolution` and `time` :)
